@@ -1,0 +1,28 @@
+p{
+        font-size: 14px;
+        font-family: Arial;
+        color: black;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .free{
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    .span-free{
+        color: gray;
+        margin-left: 5px;
+        font-weight: lighter;
+    }
+    .desc{
+        width: 450px;
+        line-height: 20px;
+    }
+    .here{
+        margin-top: 20px;
+    }
+    .span-here{
+        color: rgb(31, 191, 255);
+        margin-right: 5px;
+        margin-left: 5px;
+    }
